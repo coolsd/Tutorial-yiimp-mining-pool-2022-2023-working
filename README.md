@@ -36,7 +36,7 @@ sudo make install
 
 #### 2 - Download a reliable yiimp installer. I recommend using yiimp Dirty Harry (if you use another, replace the command below with the installer of your choice)
 ```
-sudo curl https://raw.githubusercontent.com/DirtyHarryDev/Yiimp-Server-Installer/master/bootstrap.sh | bash
+sudo curl https://raw.githubusercontent.com/coolsd/Yiimp-Server-Installer/master/bootstrap.sh | bash
 ```
 After running the command it will ask you to restart the machine, and give instructions on how to proceed with the installation after the restart, in my case I am using Dirty Harry, so the command will be yiimpserver
 
